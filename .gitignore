@@ -1,0 +1,6 @@
+.*
+!/.gitignore
+docs/*
+!docs/README.md
+bin/*
+!bin/README.md
